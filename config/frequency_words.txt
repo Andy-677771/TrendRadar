@@ -69,7 +69,7 @@ deepmind
 chatgpt
 openai
 sora
-
+gemini
 claude
 Anthropic
 
@@ -104,6 +104,7 @@ ai
 雅鲁藏布江
 
 新质生产力
+6G
 
 月球
 登月
